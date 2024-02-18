@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">98149797191</string>
+    <string name="google_api_key" translatable="false">AIzaSyA7F7PPDE0DOheBkTU3_Dg5gzAFFFl3PGs</string>
+    <string name="google_app_id" translatable="false">1:98149797191:android:3c78f73b96467074c71062</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyA7F7PPDE0DOheBkTU3_Dg5gzAFFFl3PGs</string>
+    <string name="google_storage_bucket" translatable="false">vidya-jana.appspot.com</string>
+    <string name="project_id" translatable="false">vidya-jana</string>
+</resources>
